@@ -14,8 +14,8 @@ A university operations or sustainability team is preparing an ESG and Responsib
 
 ## Sources Uploaded
 
-- ScienceDirect article on greenwashing prevention in ESG disclosures.
-- CSIRO Responsible AI ESG Framework for investors.
+- ScienceDirect article on greenwashing prevention in ESG disclosures. https://www.sciencedirect.com/science/article/pii/S0275531924005130 
+- CSIRO Responsible AI ESG Framework for investors. https://www.csiro.au/en/research/technology-space/ai/responsible-ai/rai-esg-framework-for-investors
 
 ## Prompts Tested
 
